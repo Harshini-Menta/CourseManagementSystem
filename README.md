@@ -1,11 +1,11 @@
-# CourseManagementSystem
+# Course Management System
 The Course Management System is a Java-based console application that allows users to manage students, courses, attendance, and grades. It provides an interactive menu using a switch-case statement for easy user interaction.
 
 # Technologies Used
 
---Java (Core Java).
---HashMap for data storage
---Scanner for user input
+#### Java (Core Java).
+#### HashMap for data storage
+#### Scanner for user input
 
 # Example Usage
 --- Course Management System ---
