@@ -3,11 +3,12 @@ The Course Management System is a Java-based console application that allows use
 
 # Technologies Used
 
-#### Java (Core Java).
-#### HashMap for data storage
-#### Scanner for user input
+- Java (Core Java).
+- HashMap for data storage
+- Scanner for user input
 
 # Example Usage
+
 --- Course Management System ---
 1. Add Student
 2. Add Course
@@ -16,7 +17,7 @@ The Course Management System is a Java-based console application that allows use
 5. Assign Grade
 6. Display Student Details
 7. Exit
-Enter your choice: 1
-Enter Student ID: S1
-Enter Student Name: Harshini
-Student added successfully!
+- Enter your choice: 1
+- Enter Student ID: S1
+- Enter Student Name: Harshini
+- Student added successfully!
